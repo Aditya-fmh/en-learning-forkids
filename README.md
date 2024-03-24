@@ -1,2 +1,2 @@
-# en-learning-forkids
-Website sederhana berbasis PHP dan jQuery mobile untuk mendukung pembuatan Tugas Akhir Diploma 3
+# English Learning For Kids
+Website sederhana berbasis PHP dan jQuery Mobile untuk mendukung pembuatan Tugas Akhir Diploma 3
